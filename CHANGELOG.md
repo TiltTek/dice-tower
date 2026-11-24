@@ -4,6 +4,14 @@ All notable changes to `tilttek/dice-tower` will be documented in this file.
 
 Updates should follow the [Keep a CHANGELOG](https://keepachangelog.com/) principles.
 
+## 0.1.1-alpha - 2026-11-24
+
+### Changed
+
+- Requires the latest minor of each dependency: `doctrine/orm` 3.8, `doctrine/dbal` 4.6, `twig/twig` 3.31,
+  `symfony/ux-twig-component` 3.8, `symfony/stimulus-bundle` 3.8.
+- `tilttek/dice` 0.3 required: 0.2 is no longer accepted.
+
 ## 0.1.0-alpha - 2026-11-20
 
 ### Added
